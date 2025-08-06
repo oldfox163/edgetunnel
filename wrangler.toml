@@ -1,5 +1,6 @@
-name = "qfv3"
+name = "falling-limit-f8b5"
 main = "_worker.js"
 compatibility_date = "2025-07-23"
 
 keep_vars = true
+
